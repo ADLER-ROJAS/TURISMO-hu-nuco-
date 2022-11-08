@@ -21,16 +21,14 @@
  
             <link rel="stylesheet" href="style.css"
              
-
         </style>
-    </head>
-        
-    <body>
-        <center><h1> </h1></center>
-        <body bgcolor="#18c898">
+   
+   
 
-<center><img src="" alt="..."></center>
-<body background="https://portal.andina.pe/EDPfotografia/Thumbnail/2013/12/24/000228759W.jpg">      
+    </head>
+     
+
+    <body background="https://s1.1zoom.me/big3/635/Geometry_Texture_Vector_Graphics_Abstraction_578350_3000x2000.jpg">      
 
 
     </body>
@@ -38,10 +36,10 @@
     <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="..." class="d-block w-100" alt="...">
+      ><center><img src="https://machupicchubyworld.com/wp-content/uploads/2020/12/destino-huanuco.jpg" class="d-block w-100" alt="..."></center> 
     </div>
     <div class="carousel-item">
-      <img src="..." class="d-block w-100" alt="...">
+      ><center><img src="https://diariocorreo.pe/resizer/1rQlHRHz0JXEUdB-G3kwg8PyLBk=/1200x800/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/DFGT3V7VERFQ5HIGU7PE5TBFPY.jpg" class="d-block w-100" alt="..."></center> 
     </div>
     <div class="carousel-item">
       <img src="..." class="d-block w-100" alt="...">
@@ -55,6 +53,9 @@
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="visually-hidden">Next</span>
   </button>
+
+</div>
+
 </div>
 
 </html>
