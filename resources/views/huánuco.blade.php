@@ -30,30 +30,32 @@
 
     <body background="https://s1.1zoom.me/big3/635/Geometry_Texture_Vector_Graphics_Abstraction_578350_3000x2000.jpg">      
 
+        <div class="container">
+           
+
+
 
     </body>
+      
+    <center><h1
+           style="color: yellow;
+           font-family: 𓂀 𝕐𝕠𝕦𝕣 ℕ𝕒𝕞𝕖 𓂀;
+           font-size: 80px;
+           "
+          >TOURS-HUÁNUCO</h1></center>
+         
+
 
     <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
       ><center><img src="https://machupicchubyworld.com/wp-content/uploads/2020/12/destino-huanuco.jpg" class="d-block w-100" alt="..."></center> 
-    </div>
-    <div class="carousel-item">
-      ><center><img src="https://diariocorreo.pe/resizer/1rQlHRHz0JXEUdB-G3kwg8PyLBk=/1200x800/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/DFGT3V7VERFQ5HIGU7PE5TBFPY.jpg" class="d-block w-100" alt="..."></center> 
-    </div>
-    <div class="carousel-item">
-      <img src="..." class="d-block w-100" alt="...">
-    </div>
-  </div>
-  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Previous</span>
-  </button>
-  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Next</span>
-  </button>
+    
+      </div>
 
+    <div class="carousel-item">
+     
+  
 </div>
 
 </div>
